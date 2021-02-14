@@ -1,9 +1,11 @@
 # Compiled class file
 *.class
-
+spring-boot-01-helloworld/target
+*.iml
 # Log file
 *.log
-
+.DS_Store
+.idea/
 # BlueJ files
 *.ctxt
 
