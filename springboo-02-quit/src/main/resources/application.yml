@@ -1,0 +1,17 @@
+#person:
+#  last-name: zhangsan
+#  age: 18
+#  boss: false
+#  birth: "2017/12/12"
+#  maps: { key: v1, key2: 12, key3: [1,2,3]}
+#  lists:
+#    - a
+#    - b
+#    - c
+#    - d
+#    - 1
+#    - 2
+#    - 3
+#  dog:
+#    name: taotao
+#    age: 2

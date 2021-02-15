@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-boot-01-helloworld</module>
+        <module>springboo-02-quit</module>
+        <module>spring-boot-config-02</module>
+        <module>spring-boot-log</module>
     </modules>
     <profiles>
         <profile>
